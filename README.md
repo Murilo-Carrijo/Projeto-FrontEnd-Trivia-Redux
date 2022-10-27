@@ -41,7 +41,7 @@ Trivia é um jogo onde o usuário loca com nome e e-mail, perguntas aleatórias 
 1. Clone o repositório
   * `git@github.com:Murilo-Carrijo/Projeto-Fundamentos-Trivia-Redux.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd Projeto-Fundamentos-Trivia-Redux`
+    * `cd Projeto-FrontEnd-Trivia-Redux`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
